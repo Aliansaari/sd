@@ -1630,13 +1630,6 @@
         "Contact1": "----",
         "Contact2": "----",
         "Balance": "----"
-    },
-    {
-        "No": "TOTAL",
-        "Customer Name": "----",
-        "Address": "----",
-        "Contact1": "----",
-        "Contact2": "----",
-        "Balance": 4034046
     }
+  
 ]
